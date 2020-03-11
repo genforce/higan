@@ -13,6 +13,7 @@ In this repository, we propose an effective framework, termed as HiGAN, to inter
 
 [[Paper](https://arxiv.org/pdf/1911.09267.pdf)]
 [[Project Page](https://genforce.github.io/higan/)]
+[[Demo](https://www.youtube.com/watch?v=X5yWu2Jwjpg)]
 
 ## Usage of Semantic Manipulation
 
