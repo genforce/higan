@@ -12,7 +12,7 @@
 In this repository, we propose an effective framework, termed as HiGAN, to interpret the semantics learned by GANs for scene synthesis. It turns out that GAN models, which employ layer-wise latent codes, spontaneously encode the semantics from different abstract levels in the latent space in a hierarchical manner. Identifying the most relevant variation factors significantly facilitates scene manipulation.
 
 [[Paper](https://arxiv.org/pdf/1911.09267.pdf)]
-[[Project Page](https://ceyuan.me/SemanticHierarchyEmerge/)]
+[[Project Page](https://genforce.github.io/higan/)]
 
 ## Usage of Semantic Manipulation
 
@@ -90,9 +90,9 @@ python rescore.py $MODEL_NAME $BOUNDARY_LIST \
 
 ```bibtex
 @article{yang2019semantic,
-  title={Semantic hierarchy emerges in deep generative representations for scene synthesis},
-  author={Yang, Ceyuan and Shen, Yujun and Zhou, Bolei},
-  journal={arXiv preprint arXiv:1911.09267},
-  year={2019}
+  title   = {Semantic hierarchy emerges in deep generative representations for scene synthesis},
+  author  = {Yang, Ceyuan and Shen, Yujun and Zhou, Bolei},
+  journal = {arXiv preprint arXiv:1911.09267},
+  year    = {2019}
 }
 ```
