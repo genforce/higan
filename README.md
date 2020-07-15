@@ -9,6 +9,10 @@
 ![image](./teaser.jpg)
 **Figure:** *Scene manipulation from different abstract levels: including layout, categorical object, and scene attributes.*
 
+> **Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis** <br>
+> Ceyuan Yang*, Yujun Shen*, Bolei Zhou <br>
+> *arXiv preprint arXiv:1911.09267*
+
 In this repository, we propose an effective framework, termed as HiGAN, to interpret the semantics learned by GANs for scene synthesis. It turns out that GAN models, which employ layer-wise latent codes, spontaneously encode the semantics from different abstract levels in the latent space in a hierarchical manner. Identifying the most relevant variation factors significantly facilitates scene manipulation.
 
 [[Paper](https://arxiv.org/pdf/1911.09267.pdf)]
@@ -87,7 +91,7 @@ python rescore.py $MODEL_NAME $BOUNDARY_LIST \
     --logfile_name=rescore.log
 ```
 
-## Bibtex
+## BibTeX
 
 ```bibtex
 @article{yang2019semantic,
