@@ -18,6 +18,8 @@ In this repository, we propose an effective framework, termed as HiGAN, to inter
 [[Paper](https://arxiv.org/pdf/1911.09267.pdf)]
 [[Project Page](https://genforce.github.io/higan/)]
 [[Demo](https://www.youtube.com/watch?v=X5yWu2Jwjpg)]
+[[Colab-Church](https://colab.research.google.com/github/genforce/higan/blob/master/docs/HiGAN_Church.ipynb)]
+[[Colab-Bedroom](https://colab.research.google.com/github/genforce/higan/blob/master/docs/HiGAN_Bedroom.ipynb)]
 
 ## Usage of Semantic Manipulation
 
