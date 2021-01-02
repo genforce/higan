@@ -99,7 +99,7 @@ python rescore.py $MODEL_NAME $BOUNDARY_LIST \
 @article{yang2019semantic,
   title   = {Semantic hierarchy emerges in deep generative representations for scene synthesis},
   author  = {Yang, Ceyuan and Shen, Yujun and Zhou, Bolei},
-  journal = {arXiv preprint arXiv:1911.09267},
-  year    = {2019}
+  journal = {International Journal of Computer Vision},
+  year    = {2020}
 }
 ```
