@@ -11,7 +11,7 @@
 
 > **Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis** <br>
 > Ceyuan Yang*, Yujun Shen*, Bolei Zhou <br>
-> *arXiv preprint arXiv:1911.09267*
+> *International Journal of Computer Vision (IJCV) 2020*
 
 In this repository, we propose an effective framework, termed as HiGAN, to interpret the semantics learned by GANs for scene synthesis. It turns out that GAN models, which employ layer-wise latent codes, spontaneously encode the semantics from different abstract levels in the latent space in a hierarchical manner. Identifying the most relevant variation factors significantly facilitates scene manipulation.
 
@@ -99,7 +99,7 @@ python rescore.py $MODEL_NAME $BOUNDARY_LIST \
 @article{yang2019semantic,
   title   = {Semantic hierarchy emerges in deep generative representations for scene synthesis},
   author  = {Yang, Ceyuan and Shen, Yujun and Zhou, Bolei},
-  journal = {International Journal of Computer Vision},
+  journal = {IJCV},
   year    = {2020}
 }
 ```
